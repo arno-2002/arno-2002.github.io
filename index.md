@@ -32,10 +32,10 @@ Experience
 ----------
 Summer 2021
 
->   **Student job: Merchandiser**; Brico Sint-Denijs-Westrem (GENT)   
+**Student job: Merchandiser**; Brico Sint-Denijs-Westrem (GENT)   
     
-    Worked in de brico as a merchandiser, I had to restock products in the store
-    and made sure the store looked good and was clean.
+>    Worked in de brico as a merchandiser, I had to restock products in the store
+>    and made sure the store looked good and was clean.
 
 
 ----------
