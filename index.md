@@ -14,7 +14,7 @@ Belgium                           04 91 97 50 55
 Education
 ---------
 
-2020-2023 (expected)
+2020-2023 (expected) 
 :   **Bachelor Computer Science**; HOGENT (Gent)
 
     Minor: System & Networking administration 
@@ -29,7 +29,7 @@ Experience
 
 
 ----------
-**Student job: Merchandiser**; Summer 2021
+**Student job: Merchandiser**; Summer 2021 <p class="text-right">Summer 2021</p>
 :   Brico (Sint-Denijs-Westrem)  
 
     Worked in de brico as a merchandiser, I had to restock products in the store
