@@ -29,7 +29,7 @@ Experience
 
 
 ----------
-**Student job: Merchandiser**; Summer 2021 <p class="text-right">Summer 2021</p>
+**Student job: Merchandiser**; Summer 2021
 :   Brico (Sint-Denijs-Westrem)  
 
     Worked in de brico as a merchandiser, I had to restock products in the store
