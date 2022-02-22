@@ -1,37 +1,70 @@
-## Welcome to GitHub Pages
+# Welcome
 
-You can use the [editor on GitHub](https://github.com/arno-2002/arno-2002.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Hi! I'm Arno, I study Applied computer science at HoGent and I'm 19 years old. Here you'll find my projects, info and my resumé.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# CV (resumé)
 
-```markdown
-Syntax highlighted code block
+-------------------     ----------------------------
+Den duiver                        arno.ooms@outlook.com
+De pinte 9840                     @ArnoOoms
+Belgium                           04 91 97 50 55
+-------------------     ----------------------------
 
-# Header 1
-## Header 2
-### Header 3
+Education
+---------
 
-- Bulleted
-- List
+2020-2023 (expected)
+:   **Bachelor Computer Science**; HOGENT (Gent)
 
-1. Numbered
-2. List
+    Minor: System & Networking administration 
 
-**Bold** and _Italic_ and `Code` text
+2014-2020
+:   **Secondary School**; Erasmus Deinze (Deinze)
 
-[Link](url) and ![Image](src)
-```
+    Minor: ICT & engineering
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+Experience
+----------
 
-### Jekyll Themes
+----------
+Summer 2021
+**Student job: Brico Sint-Denijs-Westrem: Merchandiser**
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/arno-2002/arno-2002.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Worked in de brico as a merchandiser, I had to restock products in the store
+and made sure the store looked good and was clean.
 
-### Support or Contact
+----------
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+----------
+Summer 2020
+**Student job: Carrefour Sint-denijs-westrem: backoffice, Merchandiser**
+
+I worked in the back office of the carrefour so I had to empty and fill trucks with food products and I had to restock the store shelves.
+
+----------
+
+----------
+Summer 2019
+**Student job: Makro Eke restaurant: hall and kitchen help**
+
+My job in the makro consisted of filling and emptying the dishwashers, helping out in the restaurant, cleaning and serving customers.
+
+----------
+
+----------
+Summer 2018
+**Student job: Zonnehoeve Nazareth: logistiek arbeid**
+
+In the Zonnehoeve at Nazareth, I worked as a logistics worker so I had to put products on the conveyor belt, move and tape boxes and also clean.
+
+----------
+
+----------
+Summer 2018
+**Student job: Calitess Nazareth: bereiden voedingswaren**
+
+My first student job was at the Calitess in Nazareth where I had to prepare and pack food products.
+
+----------
