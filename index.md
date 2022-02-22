@@ -30,42 +30,34 @@ Experience
 
 
 ----------
-Summer 2021
-
 **Student job: Merchandiser**; Brico Sint-Denijs-Westrem (GENT)   
-    
->    Worked in de brico as a merchandiser, I had to restock products in the store
->    and made sure the store looked good and was clean.
+:   *Summer 2021*
 
+    Worked in de brico as a merchandiser, I had to restock products in the store
+    and made sure the store looked good and was clean.
 
 ----------
-Summer 2020
 **Student job: Carrefour Sint-denijs-westrem: backoffice, Merchandiser**
+:   *Summer 2020*
 
-I worked in the back office of the carrefour so I had to empty and fill trucks with food products and I had to restock the store shelves.
+    I worked in the back office of the carrefour so I had to empty and fill trucks with food products and I had to restock the store shelves.
 
 ----------
-
-----------
-Summer 2019
 **Student job: Makro Eke restaurant: hall and kitchen help**
+:   *Summer 2019*
 
-My job in the makro consisted of filling and emptying the dishwashers, helping out in the restaurant, cleaning and serving customers.
+    My job in the makro consisted of filling and emptying the dishwashers, helping out in the restaurant, cleaning and serving customers.
 
 ----------
-
-----------
-Summer 2018
 **Student job: Zonnehoeve Nazareth: logistiek arbeid**
+:   *Summer 2018*
 
-In the Zonnehoeve at Nazareth, I worked as a logistics worker so I had to put products on the conveyor belt, move and tape boxes and also clean.
+    In the Zonnehoeve at Nazareth, I worked as a logistics worker so I had to put products on the conveyor belt, move and tape boxes and also clean.
 
 ----------
-
-----------
-Summer 2018
 **Student job: Calitess Nazareth: bereiden voedingswaren**
+:   *Summer 2018*
 
-My first student job was at the Calitess in Nazareth where I had to prepare and pack food products.
+    My first student job was at the Calitess in Nazareth where I had to prepare and pack food products.
 
 ----------
