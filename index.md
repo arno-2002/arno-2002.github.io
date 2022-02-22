@@ -2,15 +2,14 @@
 
 Hi! I'm Arno, I study Applied computer science at HoGent and I'm 19 years old. Here you'll find my projects, info and my resumé.
 
-
-
-# CV (resumé)
-
 -------------------     ----------------------------
 Den duiver                        arno.ooms@outlook.com
 De pinte 9840                     @ArnoOoms
 Belgium                           04 91 97 50 55
 -------------------     ----------------------------
+
+
+# CV (resumé)
 
 Education
 ---------
