@@ -5,15 +5,11 @@ Hi! I'm Arno, I study Applied computer science at HoGent and I'm 19 years old. H
 ---------------
 > **Arno Ooms**
 > 
-> De pinte 9840
+> Gent, Belgium
 >                      
-> Belgium
-> 
 > arno.ooms@outlook.com
 > 
-> 04 91 97 50 55
-> 
-> @ArnoOoms
+> Twitter: @ArnoOoms
 
 ------------
 
