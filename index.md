@@ -1,6 +1,6 @@
 # Welcome
 
-Hi! I'm Arno, I study Applied computer science at HoGent and I'm 19 years old. Here you'll find my projects, info and my resumé.
+Hi! I'm Arno, I study Applied computer science at HoGent and I'm 19 years old. This is my e-portfolio where you'll find out who I am, what I study and my work experience.
 
 ---------------
 > **Arno Ooms**
