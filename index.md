@@ -31,7 +31,12 @@ Education
 Experience
 ----------
 
-
+----------
+**Student job: backoffice, Merchandiser**; Summer 2020
+:   Carrefour (Sint-denijs-westrem)
+    
+    I worked in the back office of the carrefour so I had to empty and fill trucks with food products and I had to restock the store shelves.
+    
 ----------
 **Student job: Merchandiser**; Summer 2021
 :   Brico (Sint-Denijs-Westrem)  
@@ -64,3 +69,18 @@ Experience
     My first student job was at the Calitess in Nazareth where I had to prepare and pack food products.
 
 ----------
+
+
+Projects
+----------
+
+GIP (2019-2020): Setting up network with docker
+
+![image](https://user-images.githubusercontent.com/66742560/194770869-88e5537d-9036-4aa8-a86e-62c2b05f206f.png)
+
+
+1st bachelor (2020-2021) **System Development Project**: Digital mini game rummikub
+
+2nd bachelor (2021-2022) **System Engineering Project**: 
+
+![image](https://user-images.githubusercontent.com/66742560/194771200-b0587802-68c3-4280-9546-fe4007addd45.png)
