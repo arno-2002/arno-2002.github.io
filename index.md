@@ -32,7 +32,13 @@ Experience
 ----------
 
 ----------
-**Student job: backoffice, Merchandiser**; Summer 2020
+**Internship: System Engineer**; February, march, april, may 2023
+:   Securex (Gent)
+    
+    My assignment and goal was to develop an automatic system where software gets distributed with ansible. I worked with AWX, the frontend of ansible, to make       templates and surveys. I also had contact with Kubernetes and other technologies. 
+    
+----------
+**Student job: backoffice, Merchandiser**; Summer 2022
 :   Carrefour (Sint-denijs-westrem)
     
     I worked in the back office of the carrefour so I had to empty and fill trucks with food products and I had to restock the store shelves.
@@ -84,3 +90,7 @@ GIP (2019-2020): Setting up network with docker
 2nd bachelor (2021-2022) **System Engineering Project**: 
 
 ![image](https://user-images.githubusercontent.com/66742560/194771200-b0587802-68c3-4280-9546-fe4007addd45.png)
+
+3rd bachelor year (2022-2023) **DevOps**:
+
+The DevOps project consisted of a team comprising 6 developers and 4 system engineers or IT operations students. As a system engineer, my team was responsible for several tasks, including setting up a CI/CD pipeline in Jenkins, creating a database with automatic backups, and establishing a platform for deploying both Android and web applications. We utilized Ansible for automation, and with the help of a few playbooks, we were able to complete the entire setup.
